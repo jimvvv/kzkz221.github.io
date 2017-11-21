@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Jimmy's Blog
 repository: kzkz221/kzkz221.github.io
 sass:
-  sass_dir: _scss
+  sass_dir: _sass
